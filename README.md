@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Debaditya Som</h1>
-<h3 align="center">I'm an intestellar traveller</h3>
+<h3 align="center">I'm an intestellar traveller 🪐🌌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debaditya-som&label=Profile%20views&color=0e75b6&style=flat" alt="debaditya-som" /> </p>
-<img align="right" alt="coding" width="400" src="https://pin.it/1PO9VbD">
+<img align="right" alt="astronaut" width="400" src="https://i.pinimg.com/564x/85/28/f3/8528f313e2246b05909f06707e4f0aae.jpg">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debaditya-som" alt="debaditya-som" /></a> </p>
